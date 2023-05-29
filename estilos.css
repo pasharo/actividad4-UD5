@@ -1,0 +1,11 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url(../imagenes/fondo.png) ;
+    padding: 20px;
+}
+header h1{
+    color: #f44336;
+    text-align: center;
+    border: 4px ;
+    
+}
